@@ -1,0 +1,24 @@
+#underFortyEight {
+  display: none;
+  margin-top: 50px;
+}
+
+#overSeventyTwo {
+  display: none;
+  margin-top: 50px;
+}
+
+#noRestrict {
+  display: none;
+  margin-top: 50px;
+}
+
+.sorry {
+  border-bottom: 5px solid black;
+}
+
+.rideList {
+  padding: 0;
+  font-size: 25px;
+  line-height: 60px;
+}
